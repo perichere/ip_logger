@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^([^\.]+)\.jpg$ http://192.168.1.189:8521/image.php [NC,L]
+RewriteRule ^([^\.]+)\.jpg$ https://perichere.github.io/ip_logger/image.php [NC,L]
